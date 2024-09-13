@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Megharsha, but you can call me MAG</h1>
+<h1 align="center">Hi 👋, I'm Megharsha,<br> but you can call me MAG</h1>
 <h3 align="center">Front-End Developer</h3>
 
 
