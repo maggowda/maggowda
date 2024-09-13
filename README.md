@@ -10,7 +10,7 @@
 - 📫 You can reach me at **meghaharsha72@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/megharsha-a-gowda-174653291/)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
   <img width="12" />
